@@ -1,0 +1,55 @@
+[
+{
+  "name": "Medeu",
+  "happiness": 3,
+  "culture": 1,
+  "uniqueTo": "Nurken best",
+  "maintenance": 1,
+  "requiredTech": "Construction",
+  "uniques": ["Must be next to [Mountain]"],
+  "cost": 100
+},
+{
+  "name": "Mehanikon",
+  "cost": 0,
+  "uniqueTo": "Religious fanat",
+  "percentStatBonus": {"science": 15,
+  "faith": 15}
+  "uniques": ["Unsellable", "Unbuildable", "Разрешает строить Чистильщик"]
+}
+{
+		"name": "Haha",
+  "uniqueTo": "Religious fanat",
+  "replaces": "Workshop",
+		"maintenance": 2,
+		"production": 2,
+  "uniques": ["[+2 Science] from [Strategic resource] tiles [in this city]"],
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Metal Casting"
+	},
+{
+		"name": "Oppid",
+		"culture": 3,
+  "uniqueTo": "Natia popuskov",
+  "production": 3,
+  "replaces": "Amphitheater",
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+{
+		"name": "Stavkirka",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"production": 2,
+  "replaces": "Temple",
+  "uniqueTo": "Sheden",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "[+2 Culture] [in this city] <after discovering [Acoustics]>"]
+	},
+]
