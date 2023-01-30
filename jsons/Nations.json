@@ -4,7 +4,6 @@
   "leaderName": "Құралбай Нұркен",
   "adjective": ["Kazakh"],
   "preferredVictoryType": "Cultural",
-  "startBias": ["avoid [Tundra]"],
   
   "startIntroPart1": " ",
   "startIntroPart2": " ",
@@ -96,6 +95,7 @@
   "leaderName": "Карл XI",
   "adjective": ["Swedic"],
   "preferredVictoryType": "Diplomatic",
+  "startBias": ["Tundra"]
   
   "startIntroPart1": " ",
   "startIntroPart2": " ",
