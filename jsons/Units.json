@@ -15,7 +15,7 @@
 		"attackSound": "metalhit"
 	},
 {
-		"name": "Besa",
+		"name": "Fiery nomad",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 28,
@@ -34,7 +34,7 @@
 		"name": "Kavad melkiy",
 		"unitType": "Archery",
 		"movement": 4,
-  "uniqueTo": "Kavad bot",
+  "uniqueTo": "Kavadia",
   "replaces": "Chariot Archer",
 		"strength": 8,
 		"rangedStrength": 11,
@@ -53,7 +53,7 @@
 		"strength": 16,
   "range": 2,
   "replaces": "Knight",
-  "uniqueTo": "Kavad bot",
+  "uniqueTo": "Kavadia",
   "rangedStrength": 20,
 		"cost": 120,
 		"requiredTech": "Chivalry",
@@ -67,7 +67,7 @@
 {
 		"name": "Adept",
 		"unitType": "Civilian",
-  "uniqueTo": "Religious fanat",
+  "uniqueTo": "Bratstvo",
   "replaces": "Great Prophet",
 		"uniques": ["Can construct [Holy site] <if it hasn't used other actions yet>", "Can [Spread Religion] [4] times",
 			"Removes other religions when spreading religion", "May found a religion", "May enhance a religion",
@@ -78,10 +78,10 @@
 		"religiousStrength": 1000
 	},
 {
-		"name": "Chisto",
+		"name": "Chistilshik",
 		"unitType": "Sword",
   "strength": 8,
-  "uniqueTo": "Religious fanat",
+  "uniqueTo": "Bratstvo",
   "replaces": "Inquisitor",
 		"uniques": ["Prevents spreading of religion to the city it is next to", "Only available <in cities with a [Mehanikon]>",
 			"Can [Remove Foreign religions from your own cities] [1] times",
@@ -92,11 +92,11 @@
 		"movement": 3
 	},
 {
-		"name": "Udar",
+		"name": "Udarniy",
 		"unitType": "Archery",
 		"movement": 4,
   "replaces": "Chariot Archer",
-  "uniqueTo": "Natia popuskov",
+  "uniqueTo": "Gallia",
 		"strength": 6,
 		"rangedStrength": 10,
 		"cost": 56,
@@ -111,7 +111,7 @@
 		"name": "Gesats",
 		"unitType": "Sword",
 		"movement": 2,
-  "uniqueTo": "Natia popuskov",
+  "uniqueTo": "Gallia",
   "replaces": "Spearman",
 		"strength": 11,
 		"cost": 56,
@@ -126,7 +126,7 @@
 		"name": "Hackapa",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
-		"uniqueTo": "Sheden",
+		"uniqueTo": "Sweden Empire",
 		"movement": 4,
 		"strength": 25,
 		"cost": 185,
@@ -139,10 +139,10 @@
 		"attackSound": "horse"
 	},
 {
-		"name": "Karola",
+		"name": "Karolina",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
-		"uniqueTo": "Sheden",
+		"uniqueTo": "Sweden Empire",
 		"movement": 2,
 		"strength": 34,
 		"cost": 225,
