@@ -18,7 +18,7 @@
   "uniques": ["Unsellable", "Unbuildable", "Разрешает строить Чистильщик"]
 }
 {
-		"name": "Haha",
+		"name": "Adamant",
   "uniqueTo": "Religious fanat",
   "replaces": "Workshop",
 		"maintenance": 2,
