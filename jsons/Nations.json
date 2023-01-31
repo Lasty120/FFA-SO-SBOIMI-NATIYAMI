@@ -21,7 +21,7 @@
   "cities": ["Алматы","Талдыкорган","Шымкент","Бишкек","Аланья","Анталья","Батуми","Тбилиси","Город который я не посещал"]
 },
  {
-  "name": "Kavad bot",
+  "name": "Kavadia",
   "leaderName": "Великий Кавад I",
   "adjective": ["Feline"],
   "preferredVictoryType": "Domination",
@@ -43,7 +43,7 @@
   "cities": ["Кавадград", "Саняград", "Кавадсити", "Санясити", "Гандистан", "Геноцидл", "Монголиан", "Индиан", Аравиан", "Совок", "Англиан", "ЦВШТКЛВТВО((((", "Куралбалиан", "Баку", "Ебеньград", "Александропетровск", "Как-то много городов у Кавада, пора душить его"]
 },
 {
-  "name": "Religious fanat",
+  "name": "Bratstvo",
   "leaderName": "Морокс",
   "adjective": ["Brotheric"],
   "preferredVictoryType": "Scientific",
@@ -64,7 +64,7 @@
   "cities": ["Шпиль", "Второй Шпиль", "3 Шпиль", "IV Шпиль", "_ Шпиль", "六 Шпиль", "七 Шпиль", "Ը Шпиль", "፰ Шпиль", "θ Шпиль", "\\ Шпиль"]
 },
 {
-  "name": "Natia popuskov",
+  "name": "Gallia",
   "leaderName": "Бренн",
   "adjective": ["Gallic"],
   "preferredVictoryType": "Domination",
@@ -91,7 +91,7 @@
 			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
 },
 {
-  "name": "Sheden",
+  "name": "Sweden Empire",
   "leaderName": "Карл XI",
   "adjective": ["Swedic"],
   "preferredVictoryType": "Diplomatic",
