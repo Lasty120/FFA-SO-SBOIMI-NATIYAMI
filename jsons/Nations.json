@@ -60,7 +60,8 @@
   "outerColor": [65, 105, 225],
   "innerColor": [0, 0, 0],
   "uniqueName": "Знания – свет божий"
-  "uniques": ["May buy [Mehanikon] buildings for [200] [Faith] [in all cities]", "Cannot build [Settler] units", "[Inquisitor] units built [in all cities] can [Remove Foreign religions from your own cities] [1] extra times"],
+  "uniques": ["May buy [Mehanikon] buildings for [200] [Faith] [in all cities]", "Cannot build [Settler] units", "[Inquisitor] units built [in all cities] can [Remove Foreign religions from your own cities] [1] extra times",
+  "[+1 Faith] per [2] population [in all cities] <in cities with a [Library]>", "[+15]% [Faith] [in all cities] <in cities with a [University]>", "[+1 Faith] per [2] population [in all cities] <in cities with a [Public School]>"],
   "cities": ["Шпиль", "Второй Шпиль", "3 Шпиль", "IV Шпиль", "_ Шпиль", "六 Шпиль", "七 Шпиль", "Ը Шпиль", "፰ Шпиль", "θ Шпиль", "\\ Шпиль"]
 },
 {
